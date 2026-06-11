@@ -50,6 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
 ###
@@ -78,7 +86,7 @@
 
 ###
 
-<p align="left">I'm an AI/ML Engineer with 4+ years of experience shipping production machine learning, deep learning, and Generative AI systems across banking, telecom, and fintech. Lately I've been deep in the LLM ecosystem — RAG pipelines, LangChain, AI agents, fine-tuning (PEFT/LoRA), and vector databases like FAISS and Pinecone — backed by solid MLOps/LLMOps practice on AWS, Azure, and GCP with Docker, Kubernetes, and MLflow. Currently finishing my M.S. in Computer Science at Quinnipiac University (Dec 2025).</p>
+<p align="left">I'm an AI/ML Engineer with 4+ years of experience shipping production machine learning, deep learning, and Generative AI systems across banking, telecom, and fintech. Lately I've been deep in the LLM ecosystem — RAG pipelines, LangChain, AI agents, fine-tuning (PEFT/LoRA), and vector databases like FAISS and Pinecone — backed by solid MLOps/LLMOps practice on AWS, Azure, and GCP with Docker, Kubernetes, and MLflow. When I'm not training models, I build full-stack apps with the MERN stack just for the fun of it. Currently finishing my M.S. in Computer Science at Quinnipiac University (Dec 2025).</p>
 
 ###
 
